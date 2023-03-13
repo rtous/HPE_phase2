@@ -1,0 +1,9 @@
+runs
+nohup.out
+data
+v
+myvenv
+myenv
+.DS_Store
+*.pyc
+__pycache__
